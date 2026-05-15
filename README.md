@@ -25,9 +25,10 @@
 
 > *"Designing at the intersection of logic gates and silicon — where every flip-flop counts."*
 
-I'm an **Electronics and Communication Engineering** student at **Rajiv Gandhi University of Knowledge and Technologies**, passionate about **RTL design**, **digital systems**, and the **semiconductor design flow**.
+I'm an **Electronics and Communication Engineering** student at **Rajiv Gandhi University of Knowledge and Technologies**, currently interning at **IIT Tirupati**. Passionate about **RTL design**, **digital systems**, and the **semiconductor design flow**.
 
-- 🔭 Currently working on **SoC-level RTL design** with DMA + UART integration
+- 🏛️ Currently interning at **IIT Tirupati**
+- 🔭 Hands-on experience in **SoC-level RTL design** with DMA + UART integration
 - 🧠 Deep interest in **low-power design**, **FSM-based architecture**, and **FPGA implementation**
 - ⚡ Comfortable with the full RTL-to-synthesis flow in **Xilinx Vivado**
 - 🎯 Targeting roles in **VLSI Design / SoC Verification / Embedded Hardware**
