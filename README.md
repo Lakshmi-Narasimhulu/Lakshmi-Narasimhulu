@@ -27,7 +27,7 @@
 
 I'm an **Electronics and Communication Engineering** student at **Rajiv Gandhi University of Knowledge and Technologies**, currently interning at **IIT Tirupati**. Passionate about **RTL design**, **digital systems**, and the **semiconductor design flow**.
 
-- 🏛️ Currently interning at **IIT Tirupati**
+- 🏛️ Ex-intern at **IIT Tirupati**
 - 🔭 Hands-on experience in **SoC-level RTL design** with DMA + UART integration
 - 🧠 Deep interest in **low-power design**, **FSM-based architecture**, and **FPGA implementation**
 - ⚡ Comfortable with the full RTL-to-synthesis flow in **Xilinx Vivado**
